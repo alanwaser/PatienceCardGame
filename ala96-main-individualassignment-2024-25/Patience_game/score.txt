@@ -1,0 +1,16 @@
+Alan,3,3,3
+Sophie,7,5,2
+Ben,12,8,3
+Chloe,4,4,1
+David,18,7,5
+Ella,2,2,1
+Freddie,10,6,4
+Grace,6,3,3
+Henry,14,5,6
+Isla,5,2,2
+Jack,9,4,4
+Katie,11,5,5
+Liam,8,3,3
+Mia,3,3,2
+Noah,17,6,7
+Olivia,1,1,1
